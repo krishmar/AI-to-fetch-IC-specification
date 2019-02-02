@@ -1,6 +1,6 @@
 Introduction:
 
-      Recently when I was working in AI related projects, I had the following
+Recently when I was working in AI related projects, I had the following
 thought - "How COOL it will be, if we have a program that can take a snap
 shot of an IC... after recognizing the IC number it automatically search 
 for the specification in the net and give you the result".
