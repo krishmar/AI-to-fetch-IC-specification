@@ -1,10 +1,10 @@
 Introduction
 
-      Recently when I was working in AI related projects, I had the following
+   Recently when I was working in AI related projects, I had the following
 thought - "How COOL it will be, if we have a program that can take a snap
 shot of an IC... after recognizing the IC number it automatically search 
 for the specification in the net and give you the result".
-	  This python script will do exactly the same. To make it simple I had
+   This python script will do exactly the same. To make it simple I had
 uploaded an image of an IC. Copy the whole code including the image file and 
 run the code. You can change the image file path in the code accordingly. 
 Make sure you have proper internet connection in order to run the 
