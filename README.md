@@ -50,5 +50,5 @@ Final note
 You can use different IC image file or real time read from a webcam.
 If pytesseract cannot read the string from the image file, you need to fine tune the preprocessing 
 portion done with CV.
-
+WISH YOU GOOD LUCK...Krishmar
 WISH YOU GOOD LUCK... KumarC
