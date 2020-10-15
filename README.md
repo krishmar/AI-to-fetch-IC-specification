@@ -25,12 +25,11 @@ Step1: Prerequisites
 
 Make sure you have the following modules installed in your PC. You can use PIP 
 install to install all the modules mentioned. I am using Spyder with Anaconda installation
-	1. tesseract		5. re
+	1. tesseract			5. re
 	2. cv2				6. BeautifulSoup 
 	3. soup				7. PIL
 	4. numpy			8. requests
 	
-
 Make sure all the above items are working fine with your python environment before
 proceed with the following steps.
 
